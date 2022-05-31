@@ -1,10 +1,10 @@
 <template>
-	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
-		<view>
-			<text class="title">{{title}}</text>
-		</view>
-	</view>
+	<view class="bg-f8 page">
+		<view class="bg-white radius padding margin shadow">11111</view>
+		<view class="bg-white radius padding margin">11111</view>
+		<view class="bg-white radius padding margin">11111</view>
+
+	</view>	
 </template>
 
 <script>
